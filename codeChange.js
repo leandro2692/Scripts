@@ -14,7 +14,7 @@ function trsfUrl() {
     }
 }
 
-//Segunda opção
+//Segunda opção - Enviado pelo grupo do facebook
 console.clear();
 
 // https://bit.ly/3JzITjr
